@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="Type">UrlSquare</entry>
+<entry key="OutputLocation">C:\data\JTileDownloader\tiles</entry>
+<entry key="PasteUrl">http://www.openstreetmap.org/?lat=47.777&amp;lon=13.322&amp;zoom=11&amp;layers=B000TTF</entry>
+<entry key="TileServer">http://a.tile.openstreetmap.org</entry>
+<entry key="OutputZoomLevel">11</entry>
+<entry key="Radius">20</entry>
+</properties>
